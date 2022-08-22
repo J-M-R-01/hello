@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
 
   printf("Jenna Reiners, Computer Science!\n");
   printf("Major is Computer Science!\n");
-
+  printf("Minor is Math\n");
+  
   return 0;
 }
